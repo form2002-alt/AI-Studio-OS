@@ -23,6 +23,7 @@
 5. 확인되지 않은 사실은 `확인 필요`로 표시합니다.
 6. 일러스트·이미지·영상 콘셉트 작업은 `07_ILLUSTRATION_STUDIO/STYLE_SYSTEM_REFERENCE.md`의 표준 화풍 시스템을 우선 참조합니다.
 7. 전시회사 AI 운영체제 v3.0의 일러스트 관련 작업은 `06_EXHIBITION_AI_OS/EXHIBITION_AI_OS_V3_ILLUSTRATION_STYLE_PATCH.md`를 연결 기준으로 사용합니다.
+8. 전시 시스템 v4.0 관련 작업은 `06_EXHIBITION_AI_OS/v4_0/`을 기준 문서 세트로 사용합니다.
 
 ## 기본 구조
 
@@ -49,6 +50,9 @@ AI-Studio-OS
 
 | 구분 | 경로 | 내용 |
 |---|---|---|
+| 전시 시스템 v4.0 | `06_EXHIBITION_AI_OS/v4_0/README.md` | 범용 전시 AI 운영 시스템 v4.0 개요, 압축 지침, 프롬프트, Style Archive, QA 문서 세트 |
+| 전시 시스템 v4.0 압축 지침 | `06_EXHIBITION_AI_OS/v4_0/SYSTEM_INSTRUCTIONS_COMPRESSED.md` | ChatGPT 프로젝트 지침 / Custom GPT Instructions 저장용 압축본 |
+| 전시 시스템 v4.0 프롬프트 세트 | `06_EXHIBITION_AI_OS/v4_0/PROMPT_TEMPLATES.md` | 전시 기획·검증·문안·이미지·인포그래픽·영상·렌더링·제작·QA 작업 프롬프트 |
 | 전시회사 AI OS 일러스트 패치 | `06_EXHIBITION_AI_OS/EXHIBITION_AI_OS_V3_ILLUSTRATION_STYLE_PATCH.md` | Illustration Engine, QA Engine, Render & Video Engine에 화풍 시스템 연결 |
 | 전시 일러스트 요청 템플릿 | `03_TEMPLATE_LIBRARY/EXHIBITION_ILLUSTRATION_REQUEST_TEMPLATE_V3.md` | 전시회사 AI 운영체제 v3.0용 일러스트 요청 템플릿 |
 | 통합 화풍 시스템 | `07_ILLUSTRATION_STUDIO/STYLE_SYSTEM_REFERENCE.md` | 전시·교육·홍보용 일러스트 표준 화풍 20종 |
