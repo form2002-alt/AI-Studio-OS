@@ -21,6 +21,8 @@
 3. ChatGPT 프로젝트는 현재 작업을 실행하는 공간으로 사용합니다.
 4. 모든 작업은 템플릿 우선 방식으로 진행합니다.
 5. 확인되지 않은 사실은 `확인 필요`로 표시합니다.
+6. 일러스트·이미지·영상 콘셉트 작업은 `07_ILLUSTRATION_STUDIO/STYLE_SYSTEM_REFERENCE.md`의 표준 화풍 시스템을 우선 참조합니다.
+7. 전시회사 AI 운영체제 v3.0의 일러스트 관련 작업은 `06_EXHIBITION_AI_OS/EXHIBITION_AI_OS_V3_ILLUSTRATION_STYLE_PATCH.md`를 연결 기준으로 사용합니다.
 
 ## 기본 구조
 
@@ -34,6 +36,7 @@ AI-Studio-OS
 ├── 05_PERSONA_LIBRARY
 ├── 06_EXHIBITION_AI_OS
 ├── 07_ILLUSTRATION_AI_STUDIO
+├── 07_ILLUSTRATION_STUDIO
 ├── 08_AI_VIDEO_STUDIO
 ├── 09_CULTURE_CONNECT
 ├── 10_TRUE_RENDER_STUDIO
@@ -41,6 +44,15 @@ AI-Studio-OS
 ├── 12_TECHNICAL_DIRECTOR
 └── 99_ARCHIVE
 ```
+
+## 최근 반영 문서
+
+| 구분 | 경로 | 내용 |
+|---|---|---|
+| 전시회사 AI OS 일러스트 패치 | `06_EXHIBITION_AI_OS/EXHIBITION_AI_OS_V3_ILLUSTRATION_STYLE_PATCH.md` | Illustration Engine, QA Engine, Render & Video Engine에 화풍 시스템 연결 |
+| 전시 일러스트 요청 템플릿 | `03_TEMPLATE_LIBRARY/EXHIBITION_ILLUSTRATION_REQUEST_TEMPLATE_V3.md` | 전시회사 AI 운영체제 v3.0용 일러스트 요청 템플릿 |
+| 통합 화풍 시스템 | `07_ILLUSTRATION_STUDIO/STYLE_SYSTEM_REFERENCE.md` | 전시·교육·홍보용 일러스트 표준 화풍 20종 |
+| 수채화 기본값 | `07_ILLUSTRATION_STUDIO/WATERCOLOR_STYLE_REFERENCE.md` | 현대적 담백 수채화 + 얇은 라인아트 기준 |
 
 ## 파일명 규칙
 
