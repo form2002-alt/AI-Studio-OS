@@ -24,6 +24,7 @@
 6. 일러스트·이미지·영상 콘셉트 작업은 `07_ILLUSTRATION_STUDIO/STYLE_SYSTEM_REFERENCE.md`의 표준 화풍 시스템을 우선 참조합니다.
 7. 전시회사 AI 운영체제 v3.0의 일러스트 관련 작업은 `06_EXHIBITION_AI_OS/EXHIBITION_AI_OS_V3_ILLUSTRATION_STYLE_PATCH.md`를 연결 기준으로 사용합니다.
 8. 전시 시스템 v4.0 관련 작업은 `06_EXHIBITION_AI_OS/v4_0/`을 기준 문서 세트로 사용합니다.
+9. 종합 전시 시스템 V5.1 Patch 1 관련 작업은 `06_EXHIBITION_AI_OS/v5_1_patch1/`을 기준 문서 세트로 사용합니다.
 
 ## 기본 구조
 
@@ -50,6 +51,10 @@ AI-Studio-OS
 
 | 구분 | 경로 | 내용 |
 |---|---|---|
+| 종합 전시 시스템 V5.1 Patch 1 | `06_EXHIBITION_AI_OS/v5_1_patch1/README.md` | AI 적용 메커니즘, 생성 도구 레이어, 법적·계약 리스크, 간이 절차가 반영된 V5.1 기준 문서 세트 |
+| V5.1 빠른 사용 카드 | `06_EXHIBITION_AI_OS/v5_1_patch1/QUICK_START_CARDS.md` | 호출·빠른 작업 시작·이미지·영상·렌더링·리서치·QA 요청 카드 |
+| V5.1 시스템 지침 압축본 | `06_EXHIBITION_AI_OS/v5_1_patch1/SYSTEM_INSTRUCTIONS_COMPRESSED.md` | ChatGPT 프로젝트 지침 / Custom GPT / Gemini Gems / Claude Projects용 압축 지침 |
+| V5.1 QA·법적 리스크 | `06_EXHIBITION_AI_OS/v5_1_patch1/QA_AND_LEGAL_RISK_GATE.md` | AI 도구 약관, 상업 이용, 저작권, 공공기관 납품 고지, QA 판정 주체 기준 |
 | 전시 시스템 v4.0 | `06_EXHIBITION_AI_OS/v4_0/README.md` | 범용 전시 AI 운영 시스템 v4.0 개요, 압축 지침, 프롬프트, Style Archive, QA 문서 세트 |
 | 전시 시스템 v4.0 압축 지침 | `06_EXHIBITION_AI_OS/v4_0/SYSTEM_INSTRUCTIONS_COMPRESSED.md` | ChatGPT 프로젝트 지침 / Custom GPT Instructions 저장용 압축본 |
 | 전시 시스템 v4.0 프롬프트 세트 | `06_EXHIBITION_AI_OS/v4_0/PROMPT_TEMPLATES.md` | 전시 기획·검증·문안·이미지·인포그래픽·영상·렌더링·제작·QA 작업 프롬프트 |
